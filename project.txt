@@ -1,2 +1,4 @@
 Git project
+
 some changes done in feature 1
+
