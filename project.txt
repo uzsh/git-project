@@ -1,4 +1,4 @@
 Git project
 
-Changes are again done in Feature 1
-Feature1
+Changes have been made by hotfix branch
+hotfix
